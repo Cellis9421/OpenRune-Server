@@ -24,6 +24,7 @@ on:
 
 jobs:
   report:
+    timeout-minutes: 10 # Owner CI budget, KK-AGENTS#450
     runs-on: ubuntu-latest
 
     steps:
