@@ -15,7 +15,7 @@ jobs:
   spotless:
     name: spotless (advisory)
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10 # Owner CI budget, KK-AGENTS#450
 
     steps:
       - name: Checkout repository

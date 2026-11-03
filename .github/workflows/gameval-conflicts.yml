@@ -20,6 +20,7 @@ permissions:
 
 jobs:
   gameval-conflicts:
+    timeout-minutes: 10 # Owner CI budget, KK-AGENTS#450
     runs-on: ubuntu-latest
     # No environment: — do not gate fixes behind approval.
 
