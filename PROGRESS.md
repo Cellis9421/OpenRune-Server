@@ -159,7 +159,7 @@ here so it at least shows up. Nothing is ticked until someone claims it.
 - [ ] Bird house trapping
 - [ ] Bird snaring
 - [ ] Box trapping
-- [ ] Butterfly netting
+- [ ] Insect netting
 - [ ] Crab trapping
 - [ ] Deadfall trapping
 - [ ] Drift net fishing
