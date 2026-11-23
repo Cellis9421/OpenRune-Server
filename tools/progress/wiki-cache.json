@@ -169,7 +169,7 @@
         "Quests",
         "Quests requiring Prayer",
         "Quests rewarding Prayer experience",
-        "Diaries Requiring Prayer",
+        "Diaries requiring Prayer",
         "Skill choice",
         "Other Prayer experience rewards",
         "Level up messages",
@@ -1203,7 +1203,7 @@
       "image": "https://oldschool.runescape.wiki/images/thumb/Scurrius.png/48px-Scurrius.png?e66a5"
     },
     "Moons of Peril": {
-      "image": "https://oldschool.runescape.wiki/images/thumb/Eclipse_Moon.png/48px-Eclipse_Moon.png?c3e72"
+      "image": "https://oldschool.runescape.wiki/images/thumb/Neypotzli.png/48px-Neypotzli.png?36269"
     },
     "Sol Heredit": {
       "image": "https://oldschool.runescape.wiki/images/thumb/Sol_Heredit.png/48px-Sol_Heredit.png?91250"
@@ -1728,5 +1728,5 @@
       "Volcanic Mine"
     ]
   },
-  "fetched": "2026-11-16"
+  "fetched": "2026-11-23"
 }
